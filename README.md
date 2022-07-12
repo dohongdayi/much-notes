@@ -47,16 +47,4 @@
 
 > 参数根据实际注册和配置的信息替换
 
-#### 内网穿透
-
-推荐：http://u.tools/ ，插件中心-安装内网穿透。效率挺快
-
-> https://github.com/Wechat-Group/WxJava/wiki/%E5%87%A0%E4%B8%AA%E5%86%85%E7%BD%91%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E6%9C%8D%E5%8A%A1%E7%BD%91%E7%AB%99
-
-#### Contract
-
-* Email: zeno531@outlook.com
-* GitHub: https://github.com/SvenAugustus
-* GitLab: https://gitlab.com/SvenAugustus
-
 
